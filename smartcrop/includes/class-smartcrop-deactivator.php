@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's deactivation.
  *
- * @since      1.0.0
+ * @since      0.0.2
  * @package    smartcrop
  * @subpackage smartcrop/includes
  * @author     Your Name <email@example.com>
@@ -27,7 +27,7 @@ class smartcrop_Deactivator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.2
 	 */
 	public static function deactivate() {
 

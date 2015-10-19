@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              http://yatryan.com
- * @since             1.0.0
+ * @since             0.0.2
  * @package           smartcrop
  *
  * @wordpress-plugin
  * Plugin Name:       SmartCrop.js Wordpress Plugin
  * Plugin URI:        http://yatryan.com/plugins/smartcrop
  * Description:       Smartcrop.js implements an algorithm to find good crops for images.
- * Version:           1.0.0
+ * Version:           0.0.2
  * Author:            Taylor Ryan
  * Author URI:        http://yatryan.com/
  * License:           GPL-2.0+
@@ -64,7 +64,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-smartcrop.php';
  * then kicking off the plugin from this point in the file does
  * not affect the page life cycle.
  *
- * @since    1.0.0
+ * @since    0.0.2
  */
 function run_smartcrop() {
 
