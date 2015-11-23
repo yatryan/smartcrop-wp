@@ -20,7 +20,7 @@
  * @subpackage smartcrop/public
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Public {
+class smartcrop_Public {
 
 	/**
 	 * The ID of this plugin.
